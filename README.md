@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Nodejs, Express and Dragon Ball**
 
-- 📫 How to reach me **contact@avitechlab.com**
+- 📫 How to reach me **abhinav@avitechlab.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1mCJ3Glipw4U-vp5OrUY6AepLIJzQP8tpdTTyWx6u-D0/export?usp=sharing&format=pdf](https://docs.google.com/document/d/1mCJ3Glipw4U-vp5OrUY6AepLIJzQP8tpdTTyWx6u-D0/export?usp=sharing&format=pdf)
 

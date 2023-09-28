@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavkrin&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavkrin" /> </p>
 
-- 👨‍💻 I'm SDE Intern at [https://emitrr.com](https://emitrr.com)
+- 🔭 I’m currently working on [esportsweb.in](https://esportsweb.in), [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
 
-- 🔭 I’m currently working on [esportsweb.in](https://esportsweb.in)
-
-- 🌱 I’m currently learning **Django/Python, React Native**
+- 🌱 I’m currently learning **React Native, RocketChat Apps**
 
 - 👨‍💻 All of my projects are available at [https://avitechlab.com](https://avitechlab.com)
 

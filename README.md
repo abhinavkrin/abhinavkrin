@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavkrin&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavkrin" /> </p>
 
-- 🔭 I’m currently working on [esportsweb.in](https://esportsweb.in), [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+- 🔭 I’m currently working as Fullstack Engineer at @RocketChat
 
 - 🌱 I’m currently learning **React Native, RocketChat Apps**
 
